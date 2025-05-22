@@ -1,7 +1,10 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8ì³“®ï2J$4fa26951-5184-49c4-a46c-4a3b312ab0c7
-r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8î³“®ï2J$dd6c2d27-0572-4d6e-99e3-2079ab944514
-m	java:S106"+Replace this use of System.out by a logger.(·Šé8Ã‚”®ï2J$7be5d00a-cc94-42fc-be9b-b0b68dfa479e
-m	java:S106"+Replace this use of System.out by a logger.(ŸàÛ¦8Èò•®ï2J$39908a39-1f04-453e-9c22-e8b6b5d1e4d8
-L	java:S106"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8“ˆ™®ï2
-L	java:S106"+Replace this use of System.out by a logger.(‰Çëåÿÿÿÿÿ8“ˆ™®ï2
+r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8ì³“®ï2J$f317330c-7945-4618-927d-060a248812e1
+r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8î³“®ï2J$42ce1ce4-f816-4630-8682-b785f3eedc89
+m	java:S106"+Replace this use of System.out by a logger.(·Šé8Ã‚”®ï2J$ab8640d3-ae4d-4e82-acfa-b853392dc385
+n
+java:S1481"+Remove this unused "input1" local variable.(ƒÉ¯¹8Íˆ±®ï2J$8082c393-12ce-4c08-9046-9694523da126
+r	java:S106"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8“ˆ™®ï2J$4d17a3b5-8283-4395-8c3d-840af84cfda7
+s
+java:S1481"+Remove this unused "input2" local variable.(™ùêúÿÿÿÿ8‰²®ï2J$980260ed-a375-495e-b22e-1abadf03aa01
+r	java:S106"+Replace this use of System.out by a logger.(Ş—Â¾ùÿÿÿÿ8“ˆ™®ï2J$edef10cb-4c42-4fa8-83e4-cc1b0fc3fb9f

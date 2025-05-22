@@ -8,7 +8,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-
+        int cnt = 0;
 
         while(true) {
             System.out.print("명령) ");
@@ -16,11 +16,13 @@ public class Main {
             if(input.equals("종료")) break;
             else if (input.equals("등록")) {
                 System.out.print("명언 :");
-                String input1 = sc.nextLine();
-                System.out.println(input1);
+                String input1 = sc.nextLine().trim();
+
                 System.out.print("작가 :");
-                String input2 = sc.nextLine();
-                System.out.println(input2);
+                String input2 = sc.nextLine().trim();
+                cnt +=1;
+                System.out.println(cnt+"번 명령이 등록되었습니다.");
+
             }
         }
 
