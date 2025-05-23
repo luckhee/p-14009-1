@@ -1,19 +1,14 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8¤«µİï2
-L	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8¥«µİï2
-G	java:S106""+Replace this use of System.out by a logger.(·Šé8¥«µİï2
-L	java:S106&"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8¥«µİï2
-U
-java:S1117)"8Rename "infor" which hides the field declared at line 9.(÷ˆà°8¦«µİï2
-G
-java:S1481)"*Remove this unused "infor" local variable.(÷ˆà°8¦«µİï2
-G	java:S106+"+Replace this use of System.out by a logger.(Í¬÷¸8¦«µİï2
-G	java:S1062"+Replace this use of System.out by a logger.(Ğµçì8¦«µİï2
-L	java:S1063"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8¦«µİï2
-Z
-java:S11177"8Rename "infor" which hides the field declared at line 9.(ú€º€ıÿÿÿÿ8§«µİï2
-G	java:S1068"+Replace this use of System.out by a logger.(ÁÜ—ú8§«µİï2
-U
-java:S1117A"8Rename "infor" which hides the field declared at line 9.(Ş©„Á8¨«µİï2
-G	java:S106N"+Replace this use of System.out by a logger.(ÁÜ—ú8¨«µİï2
-G	java:S106^"+Replace this use of System.out by a logger.(Ìµ„8©«µİï2
+r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8ç÷ğŞï2J$f8b336be-06e2-43b6-a162-9fb2f17c538f
+r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8è÷ğŞï2J$cd6b3f43-8ddd-4e92-a24b-c0a32783f686
+m	java:S106%"+Replace this use of System.out by a logger.(·Šé8é÷ğŞï2J$c04166f1-184f-418d-8fc4-ed7f8131a9e2
+r	java:S106("+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8ê÷ğŞï2J$14231d85-a5dc-4726-86b4-21558908953d
+m	java:S106-"+Replace this use of System.out by a logger.(Í¬÷¸8ê÷ğŞï2J$df1a4470-b28d-409f-a1cc-5b90b399c38f
+m	java:S1064"+Replace this use of System.out by a logger.(Ğµçì8ê÷ğŞï2J$0b7e61ca-846a-4832-9c69-cf9f5eef4b61
+r	java:S1065"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8ê÷ğŞï2J$eb51e5d7-8c5c-4837-b61a-a37bf95e48b0
+{
+java:S1117="8Rename "infor" which hides the field declared at line 9.(Ş©„Á8ë÷ğŞï2J$92026dcd-282a-423b-ba15-2bdf51293549
+m	java:S106L"+Replace this use of System.out by a logger.(ÁÜ—ú8ì÷ğŞï2J$2436304d-e9d2-446e-b146-5246565211d3
+m	java:S106["+Replace this use of System.out by a logger.(öË˜¬8í÷ğŞï2J$48c563fa-858c-4669-a6c1-e3275c55348f
+r	java:S106d"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8î÷ğŞï2J$4e148dac-2f4f-438d-832a-514bfed93320
+m	java:S106n"+Replace this use of System.out by a logger.(ÊôÏÙ8º™ñŞï2J$2de49797-d04f-402b-9c7d-86ca831921ad

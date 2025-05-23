@@ -23,22 +23,24 @@ public class App {
                 actionWrite();
             } else if (cmd.equals("목록")) {
                 actionList();
+            } else if (cmd.startsWith("삭제?id=")) {
+
+                actionDelete(cmd);
+
             }
         }
-
         scanner.close();
     }
 
     void actionWrite() {
-        infor = new infor();
+
         System.out.print("명언 : ");
         String content = scanner.nextLine().trim();
-
 
         System.out.print("작가 : ");
         String author = scanner.nextLine().trim();
 
-        infor infor = write(content, author);
+        write(content, author);
 
         System.out.println(lastId + "번 명언이 등록되었습니다.");
 
@@ -50,23 +52,19 @@ public class App {
         System.out.println("번호 / 작가 / 명언");
         System.out.println("______________________");
 
-        ArrayList<infor> forListWiseSaying = findForList();
+        findForList();
 
-        for(infor infor : forListWiseSaying) {
-            System.out.println("%d /  %s / %s".formatted(
-                    infor.no,
-                    infor.wiseSayingAuthor,
-                    infor.wiseSaying
-            ));
-        }
+
     }
 
     infor write (String content, String author) {
         infor infor = new infor();
-        infor.wiseSayingAuthor = author;
+
         infor.no = ++lastId;
+        infor.wiseSayingAuthor = author;
         infor.wiseSaying = content;
         list.add(infor);
+
         return infor;
     }
 
@@ -86,14 +84,37 @@ public class App {
 
     }
 
-    void delete (int num) {
-        for (int i = list.size() - 1; i >= 0; i--) {
-            infor a = list.get(i);
-            if (a.no == num) {
-                list.remove(a.no);
-                System.out.println(a.no+"번 명언이 삭제 되었습니다.");
+    void actionDelete(String cmd) {
+        String[] cmdBit = cmd.split("=",2);
+
+        if(cmdBit.length < 2 || cmdBit[1].isEmpty()) {
+            System.out.println("id를 입력해주세요");
+            return;
+        }
+
+        int id = Integer.parseInt(cmdBit[1]);
+
+        int deletedIndex = delete(id);
+
+        if(deletedIndex == -1) {
+            System.out.println(id+"번 명언은 존재하지 않습니다.");
+        }
+    }
+
+    int delete (int num) {
+        int deletedIndex = -1;
+
+        for (int i = 0; i < list.size(); i++) {
+            if(list.get(i).no == num) {
+                list.remove(i);
+                System.out.println(num+ "번 명언이 삭제되었습니다.");
+                deletedIndex = i;
+                break;
             }
         }
+
+        return deletedIndex;
+
 
     }
 }
