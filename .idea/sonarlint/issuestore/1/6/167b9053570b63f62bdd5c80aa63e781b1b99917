@@ -1,9 +1,19 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8Ò¡öÙï2
-L	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8Û¡öÙï2
-G	java:S106""+Replace this use of System.out by a logger.(·Šé8Û¡öÙï2
-L	java:S106&"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8Û¡öÙï2
-L	java:S106+"+Replace this use of System.out by a logger.(Ûäàªøÿÿÿÿ8Û¡öÙï2
-G	java:S1062"+Replace this use of System.out by a logger.(Ğµçì8Û¡öÙï2
-L	java:S1063"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8Ü¡öÙï2
-G	java:S1067"+Replace this use of System.out by a logger.(ÁÜ—ú8Ü¡öÙï2
+L	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8¤«µİï2
+L	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8¥«µİï2
+G	java:S106""+Replace this use of System.out by a logger.(·Šé8¥«µİï2
+L	java:S106&"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8¥«µİï2
+U
+java:S1117)"8Rename "infor" which hides the field declared at line 9.(÷ˆà°8¦«µİï2
+G
+java:S1481)"*Remove this unused "infor" local variable.(÷ˆà°8¦«µİï2
+G	java:S106+"+Replace this use of System.out by a logger.(Í¬÷¸8¦«µİï2
+G	java:S1062"+Replace this use of System.out by a logger.(Ğµçì8¦«µİï2
+L	java:S1063"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8¦«µİï2
+Z
+java:S11177"8Rename "infor" which hides the field declared at line 9.(ú€º€ıÿÿÿÿ8§«µİï2
+G	java:S1068"+Replace this use of System.out by a logger.(ÁÜ—ú8§«µİï2
+U
+java:S1117A"8Rename "infor" which hides the field declared at line 9.(Ş©„Á8¨«µİï2
+G	java:S106N"+Replace this use of System.out by a logger.(ÁÜ—ú8¨«µİï2
+G	java:S106^"+Replace this use of System.out by a logger.(Ìµ„8©«µİï2
