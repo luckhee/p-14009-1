@@ -1,14 +1,23 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8ç÷ğŞï2J$f8b336be-06e2-43b6-a162-9fb2f17c538f
-r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8è÷ğŞï2J$cd6b3f43-8ddd-4e92-a24b-c0a32783f686
-m	java:S106%"+Replace this use of System.out by a logger.(·Šé8é÷ğŞï2J$c04166f1-184f-418d-8fc4-ed7f8131a9e2
-r	java:S106("+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8ê÷ğŞï2J$14231d85-a5dc-4726-86b4-21558908953d
-m	java:S106-"+Replace this use of System.out by a logger.(Í¬÷¸8ê÷ğŞï2J$df1a4470-b28d-409f-a1cc-5b90b399c38f
-m	java:S1064"+Replace this use of System.out by a logger.(Ğµçì8ê÷ğŞï2J$0b7e61ca-846a-4832-9c69-cf9f5eef4b61
-r	java:S1065"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8ê÷ğŞï2J$eb51e5d7-8c5c-4837-b61a-a37bf95e48b0
+r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8¡ñõàï2J$9f087746-9a29-49ed-b4c7-2c9ca2c45f07
+r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8¢ñõàï2J$d1c099db-3fda-489f-aa64-721800f13fff
+m	java:S106%"+Replace this use of System.out by a logger.(·Šé8¢ñõàï2J$026db4a0-c221-40d3-95ab-0ef05c83f1a2
+r	java:S106("+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8£ñõàï2J$81cb9282-9b12-4b9c-9c7b-40fd15d81cef
+m	java:S106-"+Replace this use of System.out by a logger.(Í¬÷¸8£ñõàï2J$64a1507b-540c-4800-aa71-2817ab6796df
+r	java:S1065"+Replace this use of System.out by a logger.(×–ªõşÿÿÿÿ8¤ñõàï2J$09dd7af0-35b9-4aaa-90d6-6fc4af036a01
+m	java:S1066"+Replace this use of System.out by a logger.(·Šé8¤ñõàï2J$62a10a51-84a5-46dc-af28-a7e4189fca32
+r	java:S1069"+Replace this use of System.out by a logger.(Ú¬Áşÿÿÿÿ8¤ñõàï2J$318fed88-847f-4906-9bf5-9a67b73886ff
+r	java:S106:"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8¤ñõàï2J$742b3427-47e6-4085-b0e9-75f3262544a5
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8Éšıáï2J$a1cea4e9-b727-4189-928d-91caca6a83d6
+m	java:S106F"+Replace this use of System.out by a logger.(Ğµçì8¥ñõàï2J$1d728a0d-6c9a-4b78-83dc-552723081817
+r	java:S106G"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8¥ñõàï2J$1b91c0b0-3344-474f-9efa-3870991c6165
 {
-java:S1117="8Rename "infor" which hides the field declared at line 9.(Ş©„Á8ë÷ğŞï2J$92026dcd-282a-423b-ba15-2bdf51293549
-m	java:S106L"+Replace this use of System.out by a logger.(ÁÜ—ú8ì÷ğŞï2J$2436304d-e9d2-446e-b146-5246565211d3
-m	java:S106["+Replace this use of System.out by a logger.(öË˜¬8í÷ğŞï2J$48c563fa-858c-4669-a6c1-e3275c55348f
-r	java:S106d"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8î÷ğŞï2J$4e148dac-2f4f-438d-832a-514bfed93320
-m	java:S106n"+Replace this use of System.out by a logger.(ÊôÏÙ8º™ñŞï2J$2de49797-d04f-402b-9c7d-86ca831921ad
+java:S1117O"8Rename "infor" which hides the field declared at line 9.(Ş©„Á8¦ñõàï2J$f1dd84ad-29bb-42b7-a26e-eb417cc24b2d
+m	java:S106^"+Replace this use of System.out by a logger.(ÁÜ—ú8§ñõàï2J$c833cfe8-fe14-42bc-96b0-d4b53d1de45c
+m	java:S106m"+Replace this use of System.out by a logger.(öË˜¬8¨ñõàï2J$32a1ee05-da92-4190-836b-e381c1a79e0c
+r	java:S106v"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8¨ñõàï2J$197c62ec-c51c-4987-a987-7ea13637abe7
+n	java:S106€"+Replace this use of System.out by a logger.(ÊôÏÙ8©ñõàï2J$d4837083-7949-4273-aa85-8d7df085a4ea
+n	java:S106"+Replace this use of System.out by a logger.(öË˜¬8ªñõàï2J$54c7d2da-067a-4d9c-824c-d6a491415840
+s	java:S106–"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8Ğüáï2J$c7af6e24-776a-4cd0-a0b0-2b6199646601
+|
+java:S1117 "8Rename "infor" which hides the field declared at line 9.(ËÙ±ó8«ñõàï2J$56e4c55d-c325-4b49-86c0-d156292e8fc0
