@@ -25,6 +25,7 @@ class Main2 {
                 sum += x.getAge();
             }
         }
+        System.out.println(sum);
         return sum;
     }
 
@@ -33,7 +34,7 @@ class Main2 {
                 .filter(e-> e.getGender() == 'M')
                 .mapToInt(e -> e.getAge())
                 .sum();
-
+        System.out.println(sum);
         return sum;
     }
 }
