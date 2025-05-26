@@ -1,5 +1,9 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(‚¨Φ§8•ΞΰΪπ2J$017ab206-d4a8-42d5-9d6d-fa5e06156707
+
+java:S1488,"[Immediately return this expression instead of assigning it to the temporary variable "avg".(’Ò¥Χ8υ―ήπ2J$a7349d4f-2712-4859-9fad-0e896b9b058c
+m	java:S106"+Replace this use of System.out by a logger.(‚¨Φ§8ƒ°ήπ2J$374faa9c-aea8-4f9a-9675-46314e5e657f
 ƒ
-java:S1612#";Replace this lambda with method reference 'Person::getAge'.(οΩλύÿÿÿÿ8ΏυάΪπ2J$57750cf8-5d0f-46ad-b1eb-c69c89053cc4
-G	java:S106%"+Replace this use of System.out by a logger.(‚¨Φ§8ΈύΰΪπ2
+java:S1612%";Replace this lambda with method reference 'Person::getAge'.(οΩλύÿÿÿÿ8†°ήπ2J$75d5a809-105d-47b3-ae45-dd9c75a29219
+m	java:S106'"+Replace this use of System.out by a logger.(‚¨Φ§8†°ήπ2J$21a34d57-174c-4dae-8dd7-982fcf926d2f
+ƒ
+java:S1612.";Replace this lambda with method reference 'Person::getAge'.(οΩλύÿÿÿÿ8‡°ήπ2J$41ac1712-9613-42d4-83f3-716ac1752e5b

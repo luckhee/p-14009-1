@@ -15,6 +15,8 @@ class Main2 {
 
         noStreamSum(people);
 
+        streamAvgAge(people);
+
     }
 
     static int noStreamSum(List<Person> people) {
@@ -36,6 +38,16 @@ class Main2 {
                 .sum();
         System.out.println(sum);
         return sum;
+    }
+
+    static double streamAvgAge(List<Person> people) {
+        double avg = people.stream()
+                .filter(e->e.getGender() =='M')
+                .mapToInt(e -> e.getAge())
+                .average()
+                .orElse(0); // 값이 없을 때를 대비해서 Default 값 설정
+
+        return avg;
     }
 }
 
