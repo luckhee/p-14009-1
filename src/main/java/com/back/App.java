@@ -1,14 +1,22 @@
 package com.back;
 
+import java.io.IOException;
+import java.nio.file.DirectoryStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
 import java.util.Scanner;
 
 public class App {
 
     Scanner scanner = new Scanner(System.in);
-    infor infor = null;
+    Infor infor = null;
     int lastId = 0;
-    ArrayList<infor> list = new ArrayList<>();
+    ArrayList<Infor> list = new ArrayList<>();
+    Path path = Paths.get("db/wiseSaying");
 
     void run() {
         System.out.println("== 명언 앱 ==");
@@ -40,7 +48,12 @@ public class App {
         System.out.print("작가 : ");
         String author = scanner.nextLine().trim();
 
-        write(content, author);
+        infor = new Infor(++lastId,author,content);
+        list.add(infor);
+
+
+        infor.save(path);
+        infor.saveLastId(path);
 
         System.out.println(lastId + "번 명언이 등록되었습니다.");
 
@@ -48,13 +61,13 @@ public class App {
 
     }
 
-    void modifyWrite(infor infor) {
+    void modifyWrite(Infor infor) {
 
-        System.out.println("명언(기존) : " + infor.wiseSaying);
+        System.out.println("명언(기존) : " + infor.getWiseSaying());
         System.out.print("명언 : ");
         String content = scanner.nextLine().trim();
 
-        System.out.println("작가(기존) : " + infor.wiseSayingAuthor);
+        System.out.println("작가(기존) : " + infor.getWiseSayingAuthor());
         System.out.print("작가 : ");
         String author = scanner.nextLine().trim();
 
@@ -75,30 +88,23 @@ public class App {
 
     }
 
-    infor write (String content, String author) {
-        infor infor = new infor();
+    void findForList() {
 
-        infor.no = ++lastId;
-        infor.wiseSayingAuthor = author;
-        infor.wiseSaying = content;
-        list.add(infor);
 
-        return infor;
-    }
+        List<Infor> inforList;
 
-    ArrayList<infor> findForList() {
-        ArrayList<infor> forListWiseSayings = new ArrayList<>();
+        inforList = getAllWiseSayings();
 
-        for (int i = list.size() - 1; i >= 0; i--) {
-            infor a = list.get(i);
+        for (int i = inforList.size() - 1; i >= 0; i--) {
+            Infor a = inforList.get(i);
             System.out.println("%d /  %s / %s".formatted(
-                    a.no,
-                    a.wiseSayingAuthor,
-                    a.wiseSaying
+                    a.getNo(),
+                    a.getWiseSayingAuthor(),
+                    a.getWiseSaying()
             ));
         }
 
-        return forListWiseSayings;
+        //return forListWiseSayings;
 
     }
 
@@ -123,7 +129,7 @@ public class App {
         int deletedIndex = -1;
 
         for (int i = 0; i < list.size(); i++) {
-            if(list.get(i).no == num) {
+            if(list.get(i).getNo() == num) {
                 list.remove(i);
                 System.out.println(num+ "번 명언이 삭제되었습니다.");
                 deletedIndex = i;
@@ -156,8 +162,8 @@ public class App {
        int modifyIndex = -1;
 
         for (int i = 0; i < list.size(); i++) {
-            if(list.get(i).no == id) {
-                infor infor = list.get(i);
+            if(list.get(i).getNo() == id) {
+                Infor infor = list.get(i);
                 modifyIndex=i;
                 modifyWrite(infor);
             }
@@ -166,14 +172,35 @@ public class App {
         return modifyIndex;
     }
 
-    infor setWrite (infor infor,String content, String author) {
+    Infor setWrite (Infor infor, String content, String author) {
 
 
-        infor.wiseSayingAuthor = author;
-        infor.wiseSaying = content;
+        infor.setWiseSayingAuthor(author);
+        infor.setWiseSaying(content);
 
         return infor;
 
     }
+
+    private List<Infor> getAllWiseSayings() {
+        List<Infor> wiseSayings = new ArrayList<>();
+
+        try (DirectoryStream<Path> stream = Files.newDirectoryStream(path, "*.json")) {
+            for (Path path : stream) {
+                if (path.getFileName().toString().equals("data.json")) continue;
+
+                Infor infor = new Infor().readJson(path);
+                if (infor != null) {
+                    wiseSayings.add(infor);
+                }
+            }
+            wiseSayings.sort(Comparator.comparing(Infor::getNo));
+            return wiseSayings;
+        } catch (IOException e) {
+            System.out.println("명언 목록 불러오기 실패: " + e.getMessage());
+            return null;
+        }
+    }
+
 }
 

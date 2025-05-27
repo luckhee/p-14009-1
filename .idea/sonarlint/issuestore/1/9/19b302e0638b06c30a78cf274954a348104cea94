@@ -1,2 +1,8 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö›Œüÿÿÿÿ8­¼÷Ùï2J$c0f95b04-9b89-4f1e-9b7b-1a3d7f06306c
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö›Œüÿÿÿÿ8…İ»‹ñ2J$5f2307df-bcb7-4606-a614-2bef43163d6e
+l	java:S1066"+Replace this use of System.out by a logger.(óÏ‹=8Œİ»‹ñ2J$9d13b21e-dbf4-4ad0-973a-1ff7b6240eec
+x
+java:S1117>"5Rename "no" which hides the field declared at line 8.(¶œÕú8Œİ»‹ñ2J$67e88036-a73c-42df-80c4-80e2b619b733
+l	java:S106D"+Replace this use of System.out by a logger.(óÏ‹=8İ»‹ñ2J$a9146e71-9cc9-433a-92f0-425f639e6af3
+m	java:S106\"+Replace this use of System.out by a logger.(øŒ¼Æ8€½‹ñ2J$bfe46b6a-a17c-4750-832a-89856973bcd4
+l	java:S106b"+Replace this use of System.out by a logger.(•ç©8Ö×ŒŒñ2J$72df494c-d8d5-459b-b79e-1aa7e808adf2

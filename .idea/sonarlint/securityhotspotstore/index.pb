@@ -13,3 +13,11 @@ Q
 !src/main/java/com/back/Main2.java,d/2/d29f88f650ff6077bea75441d3c0b461ed5776bc
 Q
 !src/main/java/com/back/Main3.java,9/e/9e4a0a0b158a23a75815e778e2d83b1b10817978
+D
+db/wiseSaying/1.json,e/8/e84ac1d7281d155bb528edd37a86277d6bfe46e7
+D
+db/wiseSaying/lastId,0/a/0af1eeed1ce7c2f35c4bf2149f54b92dcc794699
+U
+%src/main/java/com/back/JsonUtils.java,5/9/595b5407f88f780895ad8decdd0a79ac756ad29f
+Q
+!src/main/java/com/back/Infor.java,a/2/a2b9902451334cfe57484de83b18d0b86a94c9d1

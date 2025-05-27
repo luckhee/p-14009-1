@@ -1,20 +1,41 @@
 
-	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úáï™8×öÊ…ñ2J$a38478be-f134-4182-91d3-4222f2713950
-”	java:S101>"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è’Üëùÿÿÿÿ8×öÊ…ñ2J$67fb65f2-773d-4ab7-a8fd-eecdefd9db81
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ†Óà8×öÊ…ñ2J$d260fcd4-c5fe-4caa-a8dc-2fd1f0a9c839
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Öè¨8×öÊ…ñ2J$35a2e6f2-acea-49fb-ada0-8dfd6b6ff71f
-X	java:S125"<This block of commented-out lines of code should be removed.(×Ž‚Ý8Œ›×…ñ2
-	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯À„Æ8ÞöÊ…ñ2J$95838b59-c648-4d33-b31f-412fb025b4ce
-	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐªÇá8ÞöÊ…ñ2J$57ea3ff4-f7a2-4bee-a3bf-4a969dd27c4e
-l	java:S1061"+Replace this use of System.out by a logger.(î˜½8àöÊ…ñ2J$cb84c7d1-56df-4b29-8f60-6b997e83d205
-m	java:S1066"+Replace this use of System.out by a logger.(ýç°8àöÊ…ñ2J$e878e86e-77a3-4214-89d7-934ea8bf3ebd
-•	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ’ý¡úÿÿÿÿ8áöÊ…ñ2J$6541f6cc-fdf5-4e63-aaee-8f5d321c9193
-r	java:S106:"+Replace this use of System.out by a logger.(Í©ò²þÿÿÿÿ8áöÊ…ñ2J$fa566c4b-f406-4026-afe3-87bbae93cd4e
-r	java:S106A"+Replace this use of System.out by a logger.(ˆÞþ­ýÿÿÿÿ8áöÊ…ñ2J$cd8c4f68-984a-4ccc-9c96-8e888ca4c453
-m	java:S106F"+Replace this use of System.out by a logger.(îâ¡†8âöÊ…ñ2J$e550d1ce-f564-46b6-bcc6-d7bab7bc8150
-•	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŽ¿êúÿÿÿÿ8âöÊ…ñ2J$50568e0c-a3ee-4c99-9ac9-0933e16a6aaa
-m	java:S106J"+Replace this use of System.out by a logger.(Ö¼è°8âöÊ…ñ2J$fb37c6ce-8a6e-4c8f-a16e-809b13df1b56
-r	java:S106Q"+Replace this use of System.out by a logger.(ˆ‹§¦ýÿÿÿÿ8ãöÊ…ñ2J$2c45fef6-0d12-4168-8b7a-970e1b35a422
-m	java:S106V"+Replace this use of System.out by a logger.(áò©Õ8ãöÊ…ñ2J$08b895ae-317d-46c7-a260-94fe61c7ca02
-	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÙÜì8ãöÊ…ñ2J$5fe874b3-6eff-4fb0-a117-be76921e2986
-m	java:S106Z"+Replace this use of System.out by a logger.(µ…éÚ8ãöÊ…ñ2J$1395bc7a-9fd6-493e-ae1e-e0fd7d4c2224
+”	java:S101P"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°¨¢½ùÿÿÿÿ8”Ùø…ñ2J$017c1de4-777b-40e6-a4e6-d5b0c290a552
+	java:S101Z"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µùê8”Ùø…ñ2J$5eca6c5e-0408-4706-9c56-96eebfe54ee8
+	java:S101h"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãÜ‚²8”Ùø…ñ2J$d523e8c6-8ba1-4274-a449-cf78bc4ebb78
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ†Óà8”Ùø…ñ2J$df1527e4-2ff9-460d-9b74-0045b7c95a90
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Öè¨8”Ùø…ñ2J$251cbb88-5355-4c91-bba0-fdb6413bcd9e
+“	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úºÛ¦8”Ùø…ñ2J$f76f9010-f190-40db-ab63-0775e650f98b
+r	java:S106"+Replace this use of System.out by a logger.(›Êú™ûÿÿÿÿ8¤Ùø…ñ2J$f9f22f62-929a-4924-9e69-9c1bba803d6f
+r	java:S106#"+Replace this use of System.out by a logger.(âˆñŠùÿÿÿÿ8©Ùø…ñ2J$044c7500-5ae0-4a29-9ee7-aab7ba179741
+r	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8°Ùø…ñ2J$6d82654e-da46-4b9e-b688-eae8545925a7
+É
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õüº‹üÿÿÿÿ8«Ùø…ñ2J$5baf628f-05f4-485d-9744-da01cedb8bfb
+É
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢Â–‰ûÿÿÿÿ8«Ùø…ñ2J$ab4bae6a-3848-4b02-9de6-9ef8b5f86387
+•	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õüº‹üÿÿÿÿ8®Ùø…ñ2J$9f7951f0-6d81-44c3-9ed9-68a00f241742
+•	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Â–‰ûÿÿÿÿ8®Ùø…ñ2J$ab64b2c7-951a-4bd6-9944-ef378323efd9
+‚
+java:S1161[":Add the "@Override" annotation above this method signature(Õüº‹üÿÿÿÿ8¯Ùø…ñ2J$8e669e97-025b-4475-8e79-11c8cf106657
+l	java:S106\"+Replace this use of System.out by a logger.(î˜½8±Ùø…ñ2J$113d989d-836e-4a28-835d-6d1b0548f7ec
+‚
+java:S1161_":Add the "@Override" annotation above this method signature(¢Â–‰ûÿÿÿÿ8°Ùø…ñ2J$68d91b52-78af-4082-9204-ed648efd3f78
+m	java:S106`"+Replace this use of System.out by a logger.(ýç°8²Ùø…ñ2J$fea862a6-f895-4596-ac78-c80a382b82c8
+•	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ’ý¡úÿÿÿÿ8²Ùø…ñ2J$d3c8e5c5-a2e5-4706-b816-29f909db0d7a
+r	java:S106d"+Replace this use of System.out by a logger.(Í©ò²þÿÿÿÿ8¶Ùø…ñ2J$e600e3c8-5d96-4fcd-abe9-9e3619dcc50a
+‚
+java:S1161i":Add the "@Override" annotation above this method signature(Õüº‹üÿÿÿÿ8¶Ùø…ñ2J$d5ee847b-9a56-42a4-8008-d892b3062dfd
+r	java:S106j"+Replace this use of System.out by a logger.(ˆÞþ­ýÿÿÿÿ8¶Ùø…ñ2J$4b544a39-f00e-4294-92ac-c57f83e737d9
+‚
+java:S1161m":Add the "@Override" annotation above this method signature(¢Â–‰ûÿÿÿÿ8¶Ùø…ñ2J$ecc99515-33b3-4fbb-98a1-feb43e027529
+m	java:S106n"+Replace this use of System.out by a logger.(îâ¡†8¶Ùø…ñ2J$49568b63-275f-4c9f-9fad-26c8c42a1276
+•	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŽ¿êúÿÿÿÿ8¶Ùø…ñ2J$27879732-6294-4c32-9d07-7665f90d5aca
+m	java:S106r"+Replace this use of System.out by a logger.(Ö¼è°8·Ùø…ñ2J$6d7033db-9817-44dd-9556-fde61a55583c
+‚
+java:S1161w":Add the "@Override" annotation above this method signature(Õüº‹üÿÿÿÿ8·Ùø…ñ2J$75bd5de7-47ed-46ea-b99a-14a5a4597957
+r	java:S106x"+Replace this use of System.out by a logger.(ˆ‹§¦ýÿÿÿÿ8¹Ùø…ñ2J$8b9008e1-7f17-4314-8483-12c581d91cde
+‚
+java:S1161{":Add the "@Override" annotation above this method signature(¢Â–‰ûÿÿÿÿ8¸Ùø…ñ2J$cd2a8d81-0858-4fa0-8cd0-fca87f93619d
+m	java:S106|"+Replace this use of System.out by a logger.(áò©Õ8ºÙø…ñ2J$bb25b222-05bf-4515-86a7-b3fca41ec35d
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÙÜì8ºÙø…ñ2J$003f9dd5-f5f7-4976-ab40-9a773f3725cc
+H	java:S106€"+Replace this use of System.out by a logger.(µ…éÚ8ò¶ù…ñ2
