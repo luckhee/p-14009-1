@@ -1,9 +1,18 @@
 
-
-java:S1488,"[Immediately return this expression instead of assigning it to the temporary variable "avg".(’Ò¥×8õ¯Şğ2J$a7349d4f-2712-4859-9fad-0e896b9b058c
-m	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8ƒ°Şğ2J$374faa9c-aea8-4f9a-9675-46314e5e657f
+‹
+java:S3518I"CMake sure this expression can't be zero before doing this division.(£ßÑ©ıÿÿÿÿ8ùØúğ2J$f6f4a1f2-dae4-4412-bafd-7d90ddc19039
+m	java:S106&"+Replace this use of System.out by a logger.(‚¨Ö§8˜ùØúğ2J$41646956-8ddb-4c95-a2d4-c9f5871c6b7b
 ƒ
-java:S1612%";Replace this lambda with method reference 'Person::getAge'.(ïÙŸëıÿÿÿÿ8†°Şğ2J$75d5a809-105d-47b3-ae45-dd9c75a29219
-m	java:S106'"+Replace this use of System.out by a logger.(‚¨Ö§8†°Şğ2J$21a34d57-174c-4dae-8dd7-982fcf926d2f
+java:S1612-";Replace this lambda with method reference 'Person::getAge'.(ïÙŸëıÿÿÿÿ8™ùØúğ2J$97ab8412-015f-41c4-baa4-29f2a2498c10
+m	java:S106/"+Replace this use of System.out by a logger.(‚¨Ö§8šùØúğ2J$2ab832f7-db75-44f2-b58b-63f524c407bd
 ƒ
-java:S1612.";Replace this lambda with method reference 'Person::getAge'.(ïÙŸëıÿÿÿÿ8‡°Şğ2J$41ac1712-9613-42d4-83f3-716ac1752e5b
+java:S16126";Replace this lambda with method reference 'Person::getAge'.(ïÙŸëıÿÿÿÿ8›ùØúğ2J$2d4dc6bc-ba1e-46da-bea8-9b4132335a69
+l	java:S106:"+Replace this use of System.out by a logger.(–¥ìC8›ùØúğ2J$2fa371d7-9848-4e2b-ad1b-987b721610ff
+l	java:S106J"+Replace this use of System.out by a logger.(–¥ìC8œùØúğ2J$1ea8c6ed-723e-45e6-b775-45252d28a545
+m	java:S106U"+Replace this use of System.out by a logger.(«‹Îõ8ùØúğ2J$2a0bb573-da69-4bc3-8301-fce1be5dd514
+„
+java:S1612^"<Replace this lambda with method reference 'Person::getName'.(™ Ã¤úÿÿÿÿ8ŸùØúğ2J$6f1f2878-9e82-4b6e-8c42-7e071dc58818
+r	java:S106a"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ŸùØúğ2J$feaabb0b-7445-4397-894e-0abc567ddaa5
+„
+java:S1612i"<Replace this lambda with method reference 'Person::getName'.(™ Ã¤úÿÿÿÿ8 ùØúğ2J$fdc89eeb-ceb5-4162-9170-d39f5c5860ff
+F	java:S106n"+Replace this use of System.out by a logger.(ƒÚáB8æ‚ßúğ2

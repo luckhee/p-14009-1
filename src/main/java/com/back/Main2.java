@@ -17,8 +17,16 @@ class Main2 {
 
         streamAvgAge(people);
 
-    }
+        nostreamAvgAge(people);
 
+        noStreamGetName(people);
+
+        streamGetName(people);
+
+        streamGetId(people);
+
+    }
+// 나이 합계
     static int noStreamSum(List<Person> people) {
         int sum = 0;
 
@@ -39,7 +47,7 @@ class Main2 {
         System.out.println(sum);
         return sum;
     }
-
+// 평균 나이
     static double streamAvgAge(List<Person> people) {
         double avg = people.stream()
                 .filter(e->e.getGender() =='M')
@@ -47,7 +55,60 @@ class Main2 {
                 .average()
                 .orElse(0); // 값이 없을 때를 대비해서 Default 값 설정
 
+        System.out.println(avg);
+
         return avg;
+    }
+
+    static double nostreamAvgAge(List<Person> people) {
+        double avg = 0;
+        int cnt = 0;
+        int sum = 0;
+        for(Person x : people) {
+            if(x.getGender() == 'M'){
+                sum += x.getAge();
+                cnt +=1;
+            }
+        }
+        avg = sum/ (double) cnt;
+        System.out.println(avg);
+        return avg;
+    }
+
+    static List<String> noStreamGetName(List<Person> people) {
+        List<String> name = new ArrayList<>();
+
+        for(Person x : people) {
+            if(x.getGender() == 'M') name.add(x.getName());
+        }
+
+        System.out.println(name);
+
+        return name;
+    }
+
+    static List<String> streamGetName(List<Person> people) {
+
+        List<String> list = people.stream()
+                .filter(e -> e.getGender() == 'M')
+                .map(e -> e.getName())
+                .toList();
+
+        System.out.println(list);
+
+        return list;
+    }
+
+    static String streamGetId(List<Person> people) {
+        String str = people.stream()
+                .filter(e -> e.getId() == 2)
+                .map(e -> e.getName())
+                .findFirst()
+                .orElse("없음");
+
+
+        System.out.println(str);
+        return str;
     }
 }
 
