@@ -1,31 +1,33 @@
 
-d
-java:S2259b"GA "NullPointerException" could be thrown; "inforList" is nullable here.(‚ÇÇƒ8ƒ×ÜŒñ2
-L	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8‰×ÜŒñ2
-L	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8‰×ÜŒñ2
-G	java:S106-"+Replace this use of System.out by a logger.(·Šé8Š×ÜŒñ2
-L	java:S1060"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8‹×ÜŒñ2
-G	java:S106:"+Replace this use of System.out by a logger.(Í¬÷¸8‹×ÜŒñ2
-L	java:S106B"+Replace this use of System.out by a logger.(‡¹íæùÿÿÿÿ8Œ×ÜŒñ2
-G	java:S106C"+Replace this use of System.out by a logger.(·Šé8Œ×ÜŒñ2
-G	java:S106F"+Replace this use of System.out by a logger.(Û¹œ†8Œ×ÜŒñ2
-L	java:S106G"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8Œ×ÜŒñ2
-]	java:S125L"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8×ÜŒñ2
-G	java:S106S"+Replace this use of System.out by a logger.(Ğµçì8×ÜŒñ2
-L	java:S106T"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8×ÜŒñ2
-G	java:S106d"+Replace this use of System.out by a logger.(ÁÜ—ú8×ÜŒñ2
-X	java:S125k"<This block of commented-out lines of code should be removed.(İÌóç8×ÜŒñ2
-G	java:S106s"+Replace this use of System.out by a logger.(öË˜¬8×ÜŒñ2
-L	java:S106|"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8×ÜŒñ2
-H	java:S106†"+Replace this use of System.out by a logger.(ÊôÏÙ8‘×ÜŒñ2
-H	java:S106“"+Replace this use of System.out by a logger.(öË˜¬8’×ÜŒñ2
-M	java:S106œ"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8’×ÜŒñ2
-\
-java:S1117¦"9Rename "infor" which hides the field declared at line 16.(éùñˆùÿÿÿÿ8’×ÜŒñ2
-[
-java:S1117½"8Rename "path" which hides the field declared at line 19.(ıõéÁşÿÿÿÿ8“×ÜŒñ2
-\
-java:S1117À"9Rename "infor" which hides the field declared at line 16.(áêÿ­ıÿÿÿÿ8”×ÜŒñ2
-M	java:S106È"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8”×ÜŒñ2
-I
-java:S1168É"+Return an empty collection instead of null.(¥¹ï8”×ÜŒñ2
+Š
+java:S2259b"GA "NullPointerException" could be thrown; "inforList" is nullable here.(‚ÇÇƒ8î€µ¥ñ2J$68863968-b812-4f97-8691-a6af023ca476
+—
+java:S1450"TRemove the "infor" field and declare it as a local variable in the relevant methods.(È¨Øó8ò€µ¥ñ2J$9bccff31-d5c7-4fc8-873f-b75d1704e62a
+r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8÷€µ¥ñ2J$6ae08644-2317-4a39-ba53-07ee596d8828
+r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8÷€µ¥ñ2J$315f0d9c-3f09-4b37-b9ef-9f7f04ae940e
+m	java:S106-"+Replace this use of System.out by a logger.(·Šé8ù€µ¥ñ2J$31e867b2-7200-47c5-b8e1-111177943232
+r	java:S1060"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8ú€µ¥ñ2J$486d333f-3805-4448-8cb8-d6d036fc5f73
+m	java:S106:"+Replace this use of System.out by a logger.(Í¬÷¸8û€µ¥ñ2J$d48f07b1-57ef-449f-82ff-d3791776d918
+r	java:S106B"+Replace this use of System.out by a logger.(‡¹íæùÿÿÿÿ8ü€µ¥ñ2J$671ee424-7afd-449d-9cb5-1d0a4e421a63
+m	java:S106C"+Replace this use of System.out by a logger.(·Šé8ü€µ¥ñ2J$2b1505c3-0093-41f9-83df-815f625befa9
+m	java:S106F"+Replace this use of System.out by a logger.(Û¹œ†8ü€µ¥ñ2J$6d9273d8-67ac-423d-8087-b6c2cd2c3fc9
+r	java:S106G"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8ı€µ¥ñ2J$d00764a6-4f11-4c6c-8fd0-1a7a195b773f
+ƒ	java:S125L"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8ş€µ¥ñ2J$6d353a32-bb42-4b3f-9b77-b241ed4e8635
+m	java:S106S"+Replace this use of System.out by a logger.(Ğµçì8ÿ€µ¥ñ2J$0db0bbe9-b1cb-4d60-bb7c-15e2e3f3f9b6
+r	java:S106T"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8ÿ€µ¥ñ2J$c1411326-3192-4805-abe1-f40f2c6c6731
+m	java:S106d"+Replace this use of System.out by a logger.(ÁÜ—ú8µ¥ñ2J$fb045509-0552-4643-9715-78f6354a4294
+~	java:S125k"<This block of commented-out lines of code should be removed.(İÌóç8‚µ¥ñ2J$755bc3a8-76b1-4eae-bbb8-b88c9925ec4c
+m	java:S106s"+Replace this use of System.out by a logger.(öË˜¬8ƒµ¥ñ2J$e397c89e-1284-43f2-9a56-10ee9e8b337e
+r	java:S106|"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8ƒµ¥ñ2J$5467e11e-5386-4833-8546-97f76ec49d48
+n	java:S106†"+Replace this use of System.out by a logger.(ÊôÏÙ8†µ¥ñ2J$7c1d8d60-0038-4c20-9a03-2c4e2f581837
+n	java:S106“"+Replace this use of System.out by a logger.(öË˜¬8†µ¥ñ2J$b8db8a44-de4c-477a-a936-4be5583629a9
+s	java:S106œ"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8Œµ¥ñ2J$14fa46f6-c413-45e7-8763-fe4115b1154d
+‚
+java:S1117¦"9Rename "infor" which hides the field declared at line 16.(éùñˆùÿÿÿÿ8‡µ¥ñ2J$b1175c16-bc64-498a-9be2-a71ee8b4e461
+
+java:S1117½"8Rename "path" which hides the field declared at line 19.(ıõéÁşÿÿÿÿ8Šµ¥ñ2J$89da8367-5089-4d33-a526-a20e1d457e6d
+‚
+java:S1117À"9Rename "infor" which hides the field declared at line 16.(áêÿ­ıÿÿÿÿ8‹µ¥ñ2J$ba9c9519-3de8-42e1-a0a6-8da075433236
+s	java:S106È"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8¨†¸¥ñ2J$116cd013-8ce1-434b-9b0b-352ae300597b
+o
+java:S1168É"+Return an empty collection instead of null.(¥¹ï8Œµ¥ñ2J$a3425d5b-3bda-4624-a3db-c46e381952a3

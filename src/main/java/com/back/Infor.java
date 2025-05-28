@@ -90,9 +90,9 @@ public class Infor {
         try {
             String json = Files.readString(path);
             //System.out.println(json);
-            int id = Integer.parseInt(JsonUtils.getJsonValue(json, "id"));
-            String content = JsonUtils.getJsonValue(json,"content");
-            String author = JsonUtils.getJsonValue(json,"author");
+            int id = Integer.parseInt(JsonUtils.getJsonValue(json, "no"));
+            String content = JsonUtils.getJsonValue(json,"wiseSaying");
+            String author = JsonUtils.getJsonValue(json,"wiseSayingAuthor");
             return new Infor(id,content,author);
         } catch (IOException e) {
             System.out.println("불러오기 실패 " + e);

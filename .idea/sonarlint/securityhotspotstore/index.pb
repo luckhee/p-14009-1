@@ -21,3 +21,5 @@ U
 %src/main/java/com/back/JsonUtils.java,5/9/595b5407f88f780895ad8decdd0a79ac756ad29f
 Q
 !src/main/java/com/back/Infor.java,a/2/a2b9902451334cfe57484de83b18d0b86a94c9d1
+D
+db/wiseSaying/2.json,2/6/262475469d3ee0c304618947bd4f164b337717e1

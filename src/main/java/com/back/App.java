@@ -12,11 +12,11 @@ import java.util.Scanner;
 
 public class App {
 
-    Scanner scanner = new Scanner(System.in);
-    Infor infor = null;
-    int lastId = 0;
-    ArrayList<Infor> list = new ArrayList<>();
-    Path path = Paths.get("db/wiseSaying");
+    private Scanner scanner = new Scanner(System.in);
+    private Infor infor = null;
+    private int lastId = 0;
+    private ArrayList<Infor> list = new ArrayList<>();
+    private Path path = Paths.get("db/wiseSaying");
 
     void run() {
         System.out.println("== 명언 앱 ==");
@@ -40,7 +40,7 @@ public class App {
         scanner.close();
     }
 
-    void actionWrite() {
+    private void actionWrite() {
 
         System.out.print("명언 : ");
         String content = scanner.nextLine().trim();
@@ -61,7 +61,7 @@ public class App {
 
     }
 
-    void modifyWrite(Infor infor) {
+    private void modifyWrite(Infor infor) {
 
         System.out.println("명언(기존) : " + infor.getWiseSaying());
         System.out.print("명언 : ");
@@ -79,7 +79,7 @@ public class App {
 
     }
 
-    void actionList() {
+    private void actionList() {
         System.out.println("번호 / 작가 / 명언");
         System.out.println("______________________");
 
@@ -88,7 +88,7 @@ public class App {
 
     }
 
-    void findForList() {
+    private void findForList() {
 
 
         List<Infor> inforList;
@@ -108,7 +108,7 @@ public class App {
 
     }
 
-    void actionDelete(String cmd) {
+    private void actionDelete(String cmd) {
         String[] cmdBit = cmd.split("=",2);
 
         if(cmdBit.length < 2 || cmdBit[1].isEmpty()) {
@@ -125,7 +125,7 @@ public class App {
         }
     }
 
-    int delete (int num) {
+    private int delete (int num) {
         int deletedIndex = -1;
 
         for (int i = 0; i < list.size(); i++) {
@@ -140,7 +140,7 @@ public class App {
         return deletedIndex;
     }
 
-    void actionModify(String cmd) {
+    private void actionModify(String cmd) {
         String[] cmdBit = cmd.split("=",2);
 
         if(cmdBit.length < 2 || cmdBit[1].isEmpty()) {
@@ -158,7 +158,7 @@ public class App {
 
     }
 
-    int modify(int id) {
+    private int modify(int id) {
        int modifyIndex = -1;
 
         for (int i = 0; i < list.size(); i++) {
@@ -172,7 +172,7 @@ public class App {
         return modifyIndex;
     }
 
-    Infor setWrite (Infor infor, String content, String author) {
+    private Infor setWrite (Infor infor, String content, String author) {
 
 
         infor.setWiseSayingAuthor(author);
