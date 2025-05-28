@@ -23,3 +23,7 @@ Q
 !src/main/java/com/back/Infor.java,a/2/a2b9902451334cfe57484de83b18d0b86a94c9d1
 D
 db/wiseSaying/2.json,2/6/262475469d3ee0c304618947bd4f164b337717e1
+N
+src/main/java/com/back/Rq.java,3/2/32ea9d9daee06da9383d0b3e04171b852d5c2640
+I
+src/test/java/RqTest.java,3/8/38ba947553009fb4ffb79249e9d8ed8b07630615

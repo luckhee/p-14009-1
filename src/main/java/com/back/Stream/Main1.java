@@ -1,4 +1,4 @@
-package com.back;
+package com.back.Stream;
 
 import java.util.Arrays;
 
