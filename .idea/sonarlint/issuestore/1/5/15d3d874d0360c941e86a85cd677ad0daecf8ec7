@@ -1,0 +1,26 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ãşØ8ã…î®ñ2J$50601c11-3de4-460a-9c87-5e5d96c4d126
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÔ„$8††î®ñ2J$2f91b6d1-f695-49a6-801e-a251c070b923
+	java:S101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±÷È—8ûÜï®ñ2J$00c5df2c-2166-47dd-a14a-4cd458883009
+	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óêô8ûÜï®ñ2J$307a237b-4c52-47c3-9f39-2217cfb400a4
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ûïÚÿÿÿÿÿ8‡†î®ñ2J$3b73a376-bbf1-4fe1-8c16-ab2f46cd1445
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†º€8‡†î®ñ2J$3c303360-007c-41e8-a2fb-844c1836321a
+x
+java:S2209"5Change this instance-reference to a static reference.(’äûá8Œ†î®ñ2J$ed0906f0-2af5-49b4-978a-1f0a253a0b15
+}
+java:S2209"5Change this instance-reference to a static reference.(Ÿ‰¾Äøÿÿÿÿ8Œ†î®ñ2J$3f6d364e-e784-41f6-b776-1d4bc5c609c4
+}
+java:S2209"5Change this instance-reference to a static reference.(ê¶˜‡øÿÿÿÿ8Œ†î®ñ2J$576eb914-25ed-43f7-a0b4-2b0f77248885
+}
+java:S2209"5Change this instance-reference to a static reference.(øá÷Öüÿÿÿÿ8†î®ñ2J$f3cf1619-ff0b-4e75-9261-f093d08e6cf9
+x
+java:S2209"5Change this instance-reference to a static reference.(ç†¶8†î®ñ2J$23d03e0e-5f0a-4ecf-b544-1fa57908101a
+”
+java:S3008"QRename this field "ì´ë¦„" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Œçœ8†î®ñ2J$814302b3-9f56-4e33-9cdf-f21a47cb3062
+”
+java:S3008"QRename this field "ë‚˜ì´" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èŒÔ8†î®ñ2J$e5b6293d-6346-40b8-a561-e52a06afdbb9
+”
+java:S3008"RRename this field "aë¬´ê¸°" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÿ°8†î®ñ2J$0faa4e25-f8f0-455f-b190-b0a8a6a5f6be
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’«C8‘†î®ñ2J$1a1aed71-57d3-4484-8159-fca81b224beb
+š	java:S116"XRename this field "ë¬´ê¸°_ì´ë¦„" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™şÀÓ8»§ö®ñ2J$59f60849-3ad6-47cb-a348-a62ab8a5becd
+m	java:S106""+Replace this use of System.out by a logger.(×Â€†8ƒİï®ñ2J$f013eac2-2509-41c5-a5ab-af1230a7c0d8

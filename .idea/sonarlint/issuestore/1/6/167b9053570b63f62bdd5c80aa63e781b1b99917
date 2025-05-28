@@ -1,34 +1,35 @@
 
 Š
-java:S2259j"GA "NullPointerException" could be thrown; "inforList" is nullable here.(‚ÇÇƒ8™‡Íªñ2J$cc6faea3-0bde-4668-bc4c-1b263e717cc8
+java:S2259l"GA "NullPointerException" could be thrown; "inforList" is nullable here.(‚ÇÇƒ8ôäÕ¯ñ2J$7207c06b-52d2-4da8-afb9-a627700e556e
 —
-java:S1450"TRemove the "infor" field and declare it as a local variable in the relevant methods.(È¨Øó8¡‡Íªñ2J$7d90d7db-2684-40d1-8c7a-65ab4e0f33c1
-r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8«‡Íªñ2J$022e6ddc-aecb-41a9-983f-353f1492428c
-r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8«‡Íªñ2J$1b9eced1-c75a-4d57-98b2-dcb18d762044
-r	java:S106"+Replace this use of System.out by a logger.(òä½Æûÿÿÿÿ8¯‡Íªñ2J$b4c07db0-f31c-4e80-a593-2a70c12d1e15
-m	java:S106."+Replace this use of System.out by a logger.(ÆÎÃá8±‡Íªñ2J$d0d7ce3b-9e3a-4136-b40f-fe303361fece
-m	java:S1065"+Replace this use of System.out by a logger.(·Šé8´‡Íªñ2J$7bd6a063-4784-41e2-8db5-18931bed432a
-r	java:S1068"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8´‡Íªñ2J$b17d2581-51d4-430d-b42e-b49c7e6ece01
-m	java:S106B"+Replace this use of System.out by a logger.(Í¬÷¸8µ‡Íªñ2J$47e732cd-a3a7-48e4-a173-f063f43e5f93
-r	java:S106J"+Replace this use of System.out by a logger.(‡¹íæùÿÿÿÿ8Ë‡Íªñ2J$62afb6a9-763d-4f01-a29c-fa53d442d645
-m	java:S106K"+Replace this use of System.out by a logger.(·Šé8Ë‡Íªñ2J$f435ef22-7e72-46dd-a99d-6d8703c30792
-m	java:S106N"+Replace this use of System.out by a logger.(Û¹œ†8Ë‡Íªñ2J$f8d3c86a-6d05-46a7-86ad-80f7a7058e47
-r	java:S106O"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8Ì‡Íªñ2J$1b309c14-8b3c-465d-bc7c-b058cb36d584
-ƒ	java:S125T"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8Ş‡Íªñ2J$d3b418fe-0f0d-445e-ac7c-a04d0f5315fb
-m	java:S106["+Replace this use of System.out by a logger.(Ğµçì8Ş‡Íªñ2J$572186e3-d38d-41fd-bdc5-ea60bdc01473
-r	java:S106\"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8Ş‡Íªñ2J$42bf066d-39d2-46cd-89ec-33eef88584c9
-m	java:S106l"+Replace this use of System.out by a logger.(ÁÜ—ú8Ş‡Íªñ2J$b2b27cd1-713a-46db-afd0-2ab8149b79ad
-~	java:S125t"<This block of commented-out lines of code should be removed.(İÌóç8Ş‡Íªñ2J$5abbbe68-bbed-4a9e-8731-b1dc673a7f6e
-m	java:S106{"+Replace this use of System.out by a logger.(öË˜¬8Ş‡Íªñ2J$f8c7c0e6-16e5-47a0-b92e-30356e3091bf
-s	java:S106"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8ê‡Íªñ2J$1436b97f-c033-4f49-8147-9c0f34f29997
-n	java:S106‹"+Replace this use of System.out by a logger.(ÊôÏÙ8í‡Íªñ2J$af3f2757-b312-4196-b92d-c9966696d427
-s	java:S106š"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8†ôÏªñ2J$24d96283-e7b0-4423-83ff-fdbdef4569d7
+java:S1450"TRemove the "infor" field and declare it as a local variable in the relevant methods.(È¨Øó8øäÕ¯ñ2J$5125e834-5bcb-4446-a21c-594f8a32060d
+r	java:S106"+Replace this use of System.out by a logger.(ºªÒ»ùÿÿÿÿ8åÕ¯ñ2J$95ec1e54-f5cd-4193-b098-c37932370732
+r	java:S106"+Replace this use of System.out by a logger.(¦¤•®ùÿÿÿÿ8åÕ¯ñ2J$52e80bd7-ab48-47d4-ab8f-7fd5d058779f
+	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(ğë”§8‘åÕ¯ñ2J$0a8bcaf0-70d6-4b04-9ad2-3077babe27e5
+r	java:S106"+Replace this use of System.out by a logger.(òä½Æûÿÿÿÿ8’åÕ¯ñ2J$558e6d1a-ca5e-428c-abb2-fcecf6654ac4
+m	java:S1060"+Replace this use of System.out by a logger.(ÆÎÃá8•åÕ¯ñ2J$4811ded5-b8d3-4d8d-920b-381baeac4804
+m	java:S1067"+Replace this use of System.out by a logger.(·Šé8–åÕ¯ñ2J$279aaa8f-6f1c-4f1b-be79-c33154a63649
+r	java:S106:"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8–åÕ¯ñ2J$28a123c4-a22c-465f-8a88-dd411267180b
+m	java:S106D"+Replace this use of System.out by a logger.(Í¬÷¸8˜åÕ¯ñ2J$432de357-0634-475d-a53e-d4672edf2f2c
+r	java:S106L"+Replace this use of System.out by a logger.(‡¹íæùÿÿÿÿ8™åÕ¯ñ2J$c3df7fd6-1648-4027-9095-09fb6d020250
+m	java:S106M"+Replace this use of System.out by a logger.(·Šé8šåÕ¯ñ2J$b65df484-bbfe-48af-bc24-c3691506bd4a
+m	java:S106P"+Replace this use of System.out by a logger.(Û¹œ†8šåÕ¯ñ2J$e20070d0-82b7-4dc7-86b3-cb4a6fa7ec6a
+r	java:S106Q"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8›åÕ¯ñ2J$9d29ef36-5a49-48b3-b0dd-43c5862a855c
+ƒ	java:S125V"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8œåÕ¯ñ2J$cdf22b53-098d-49ec-9d46-65e5594b4ae4
+m	java:S106]"+Replace this use of System.out by a logger.(Ğµçì8œåÕ¯ñ2J$3fa5d05e-77b6-4d62-8c80-97ff8d54b669
+r	java:S106^"+Replace this use of System.out by a logger.(û²ÌÆüÿÿÿÿ8œåÕ¯ñ2J$fa62aab9-e19f-425d-9dc8-da6936712117
+m	java:S106n"+Replace this use of System.out by a logger.(ÁÜ—ú8åÕ¯ñ2J$1cce071f-cb89-4f9e-ada6-bdb1b01c95a3
+~	java:S125v"<This block of commented-out lines of code should be removed.(İÌóç8 åÕ¯ñ2J$7bec2da4-eb1b-4c7f-a857-f0ef97ed17df
+m	java:S106}"+Replace this use of System.out by a logger.(öË˜¬8 åÕ¯ñ2J$baeff118-cfd4-4f2f-b915-0fb2c6331f55
+s	java:S106ƒ"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8¡åÕ¯ñ2J$c9cfb29b-2894-4067-84bc-94f1630e8f31
+n	java:S106"+Replace this use of System.out by a logger.(ÊôÏÙ8£åÕ¯ñ2J$aedbda4b-2351-49f1-9937-5b20a8b1267d
+s	java:S106œ"+Replace this use of System.out by a logger.(­êìşÿÿÿÿ8¤åÕ¯ñ2J$1cb7525a-b850-4126-8785-f2cb107ee440
 ‚
-java:S1117¤"9Rename "infor" which hides the field declared at line 16.(éùñˆùÿÿÿÿ8ï‡Íªñ2J$6fbed3dc-a55e-483f-b420-fffeb51854f7
+java:S1117¦"9Rename "infor" which hides the field declared at line 16.(éùñˆùÿÿÿÿ8¥åÕ¯ñ2J$ca22303b-f4de-4d91-938b-4160e8a25be7
 
-java:S1117»"8Rename "path" which hides the field declared at line 19.(ıõéÁşÿÿÿÿ8õ‡Íªñ2J$afa9b83a-6fdd-43ca-aacb-bdcace81769d
+java:S1117½"8Rename "path" which hides the field declared at line 19.(ıõéÁşÿÿÿÿ8¨åÕ¯ñ2J$3ffe5523-b906-4a12-9cdc-67ddcfdc8cff
 ‚
-java:S1117¾"9Rename "infor" which hides the field declared at line 16.(áêÿ­ıÿÿÿÿ8÷‡Íªñ2J$004524b0-3684-41b0-aa73-173b64d72e9d
-s	java:S106Æ"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8ÅşØªñ2J$2022e949-b986-4349-ab04-68155555c8a4
+java:S1117À"9Rename "infor" which hides the field declared at line 16.(áêÿ­ıÿÿÿÿ8©åÕ¯ñ2J$17e3e3ab-75db-40c8-b3a1-365d5d6ec914
+s	java:S106È"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8ªåÕ¯ñ2J$a90a7226-195d-4cb1-b61f-3e679b60ed78
 o
-java:S1168Ç"+Return an empty collection instead of null.(¥¹ï8ø‡Íªñ2J$aa75a23c-6aff-42e6-82da-2c36a16976f1
+java:S1168É"+Return an empty collection instead of null.(¥¹ï8«åÕ¯ñ2J$512b893e-2810-4eda-81fa-65959cbc4bdf

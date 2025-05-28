@@ -42,6 +42,8 @@ public class App {
                 case "수정":
                     actionModify(rq);
                     break;
+                case "빌드":
+                    actionBuild();
                 default:
                     System.out.println("알 수 없는 명령입니다.");
             }
@@ -198,6 +200,10 @@ public class App {
             System.out.println("명언 목록 불러오기 실패: " + e.getMessage());
             return null;
         }
+    }
+
+    private void actionBuild() {
+        JsonUtils.jsonMerge();
     }
 
 }

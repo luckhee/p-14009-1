@@ -1,7 +1,3 @@
 
-N
-java:S1144",Remove this unused private "testRq1" method.(ÕÚ¬’ùÿÿÿÿ8´Á¸ªñ2
-X	java:S125	"<This block of commented-out lines of code should be removed.(Òë­í8¶Á¸ªñ2
-r	java:S106"+Replace this use of System.out by a logger.(Ù”¬øÿÿÿÿÿ8£¹„©ñ2J$63b23711-b1fc-41bf-89b8-22ade7aed19b
-r	java:S106"+Replace this use of System.out by a logger.(Ì“óîúÿÿÿÿ8£¹„©ñ2J$9fc7555e-86f9-4495-abdb-69c154437693
-m	java:S106"+Replace this use of System.out by a logger.(øÌ¯ÿ8¤¹„©ñ2J$c6d9de0d-b5bb-4f23-8c64-5a662af50a32
+~	java:S125	"<This block of commented-out lines of code should be removed.(Òë­í8¶Á¸ªñ2J$6fc7403f-c98f-46f3-97fc-80ec6bdee1c1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÜîÕ€8’ Ò¯ñ2
