@@ -2,11 +2,17 @@
 {
   "no": 1,
   "wiseSaying": "123",
-  "wiseSayingAuthor": "2"
+  "wiseSayingAuthor": "24"
  },
 {
   "no": 2,
-  "wiseSaying": "12424",
-  "wiseSayingAuthor": "42"
- }
+  "wiseSaying": "51234",
+  "wiseSayingAuthor": "23"
+ },
+{
+  "no": 3,
+  "wiseSaying": "5135",
+  "wiseSayingAuthor": "123"
+ },
+
 ]

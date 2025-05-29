@@ -1,5 +1,23 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ò£ÏşÿÿÿÿJ$78433dbe-28f8-4097-9bfb-ecc39b9e206a
-€
-java:S1117 "8Rename "path" which hides the field declared at line 18.(ıõéÁşÿÿÿÿ8ØëîÏñ2J$b4d3ec02-377c-480e-b413-d5702688d2e3
-r	java:S106'"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8ÙëîÏñ2J$9b2d80d5-5753-4e0a-8760-46842c90043c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ò£Ïşÿÿÿÿ8ÇœÚâñ2J$571c52a4-324a-4590-8951-dbc8be72ab3e
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ä‘øÿÿÿÿ8ÊœÚâñ2J$365143c4-47c4-47fb-85e7-d0f87a949c08
+l	java:S106'"+Replace this use of System.out by a logger.(óÏ‹=8ÒœÚâñ2J$5c5d9219-13b2-41a6-91cf-b6fd250008f5
+l	java:S106;"+Replace this use of System.out by a logger.(óÏ‹=8ÕœÚâñ2J$fe83b45e-7409-4a41-9f10-62b4b58127ee
+m	java:S106f"+Replace this use of System.out by a logger.(ÊôÏÙ8ÙœÚâñ2J$e57efc12-bab9-48a1-a474-dda314b72e17
+m	java:S106y"+Replace this use of System.out by a logger.(ÁÜ—ú8ÚœÚâñ2J$4c6e5683-cf0f-40a6-bb6a-ffaa5d9650a3
+–	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şìêïüÿÿÿÿ8ÛœÚâñ2J$20d62cb7-0ce5-4615-9843-029396793532
+s	java:S106ƒ"+Replace this use of System.out by a logger.(‡¹íæùÿÿÿÿ8ÛœÚâñ2J$81f7f798-be3e-402e-ac07-ad83a77dbd17
+n	java:S106„"+Replace this use of System.out by a logger.(·Šé8ÜœÚâñ2J$03d8482d-2649-4b4d-9d0e-bc059b4abc3c
+n	java:S106‡"+Replace this use of System.out by a logger.(Û¹œ†8ÜœÚâñ2J$5e1f1df9-4ebd-40f3-83a6-0b1a375f3517
+s	java:S106ˆ"+Replace this use of System.out by a logger.(÷ÅÛ¡üÿÿÿÿ8İœÚâñ2J$e01fb807-1681-4e90-b151-26bf83fad775
+¡
+java:S2234‹"]Parameters to modifyInfor have the same names but not the same order as the method arguments.(æûÒœ8ŞœÚâñ2J$b8a5c16d-776f-4d18-9418-c8e6d7d0255f
+„	java:S125"<This block of commented-out lines of code should be removed.(É•¿øøÿÿÿÿ8ŞœÚâñ2J$e4bd2f83-d71b-4281-b53d-6fe29ce6be41
+
+java:S1117–"8Rename "path" which hides the field declared at line 23.(ıõéÁşÿÿÿÿ8ŞœÚâñ2J$66a6e407-fa71-43d0-8110-ae1dde7e3080
+‚
+java:S1117™"9Rename "infor" which hides the field declared at line 18.(áêÿ­ıÿÿÿÿ8ßœÚâñ2J$1cc8d42b-6ee5-4b19-83b2-329227e95744
+s	java:S106¡"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8àœÚâñ2J$f6e6e7a9-60a5-4ca7-8c46-33ed55f1ec4c
+o
+java:S1168¢"+Return an empty collection instead of null.(¥¹ï8àœÚâñ2J$b6d0eab3-5bae-4ec1-a632-706cf8a018b0

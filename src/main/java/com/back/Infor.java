@@ -54,7 +54,6 @@ public class Infor {
             System.out.println("저장 실패" + e.getMessage());
             return false;
         }
-
     }
 
     public boolean saveLastId(Path path) {

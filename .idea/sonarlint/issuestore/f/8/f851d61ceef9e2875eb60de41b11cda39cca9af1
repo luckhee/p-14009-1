@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ŒÌıÿÿÿÿ8£©ßàñ2J$f5323a15-b225-46a9-a189-bb072338a79c
+r	java:S106,"+Replace this use of System.out by a logger.(­İ²™üÿÿÿÿ8­©ßàñ2J$3b746ffd-4344-4014-bde9-dbff92fda8be
+r
+java:S1068"*Remove this unused "lastId" private field.(áŸîíûÿÿÿÿ8¯©ßàñ2J$a782cb20-cf1b-497a-96f2-26477959c17c
+s
+java:S1068"+Remove this unused "content" private field.(ÉãÃ¶ıÿÿÿÿ8¯©ßàñ2J$a77046f7-1ed4-4979-86e8-eb3c483b4257
+r
+java:S1068"*Remove this unused "author" private field.(ª’Ê¶øÿÿÿÿ8¯©ßàñ2J$a77e1194-5e02-45e8-a777-92054b523a12
