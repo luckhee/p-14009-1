@@ -27,3 +27,11 @@ g
 7src/main/java/com/back/Controller/SystemController.java,4/d/4d6cd756a3cc2f9afa6540ac3617ead9b06d6848
 k
 ;src/main/java/com/back/Controller/WiseSayingController.java,1/9/1985d762671eeec2c00411fea950a4321243e592
+u
+Esrc/main/java/com/back/domain/system/controller/SystemController.java,5/6/56f2a8adce54b9143756947d0f27a5b6b66ec38b
+X
+(src/main/java/com/back/package-info.java,7/6/763e5d1e34ee4a2da1b825fe24d9b23f589c132f
+}
+Msrc/main/java/com/back/domain/wiseSaying/controller/WiseSayingController.java,7/3/737085862b1de5fcf7c834569d1a2f685064722d
+w
+Gsrc/main/java/com/back/domain/wiseSaying/service/WiseSayingService.java,f/9/f93f8cf5e9f0d741b7439bdc3f35938bcbf17563
