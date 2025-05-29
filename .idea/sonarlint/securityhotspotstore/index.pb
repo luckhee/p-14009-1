@@ -23,3 +23,7 @@ W
 'src/main/java/com/back/Stream/Main.java,1/5/15d3d874d0360c941e86a85cd677ad0daecf8ec7
 G
 db/wiseSaying/data.json,6/2/622277b646f3bd24ca4877f26f9d38b242802c84
+g
+7src/main/java/com/back/Controller/SystemController.java,4/d/4d6cd756a3cc2f9afa6540ac3617ead9b06d6848
+k
+;src/main/java/com/back/Controller/WiseSayingController.java,1/9/1985d762671eeec2c00411fea950a4321243e592
